@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "66eb287b397ab456fb0aae88"
+  },
+  "input_text": "What are the main reasons employees mention for leaving their jobs on Twitter?",
+  "processed_text": "What are the main reasons employees mention for leaving their jobs on Twitter?\n\n1. They dislike the company and their experience, and, as a result, are not motivated to stay there.\n\n2. The company has become self-destruct",
+  "timestamp": {
+    "$date": "2024-09-18T19:22:35.281Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb29a8397ab456fb0aae89"
+  },
+  "input_text": "Being called “EFF” or “Malema” for speaking out on issues that are concerning in my work place, surely calls for HR, no?",
+  "processed_text": "Being called “EFF” or “Malema” for speaking out on issues that are concerning in my work place, surely calls for HR, no?\n\nWell, this is a very bad idea, in the middle of a",
+  "timestamp": {
+    "$date": "2024-09-18T19:27:36.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb2ad5397ab456fb0aae8a"
+  },
+  "input_text": "What are the main reasons employees mention for leaving their jobs on Twitter?",
+  "processed_text": "What are the main reasons employees mention for leaving their jobs on Twitter?",
+  "timestamp": {
+    "$date": "2024-09-18T19:32:37.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb2adf397ab456fb0aae8b"
+  },
+  "input_text": "What are the main reasons employees mention for leaving their jobs on Twitter?",
+  "processed_text": "What are the main reasons employees mention for leaving their jobs on Twitter?\n\nWe have a company that has had over 1.3 million followers over the past 3 years. We have never experienced discrimination—in any aspect of our company—by anyone",
+  "timestamp": {
+    "$date": "2024-09-18T19:32:47.526Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb2c1b14c922e23e49b15f"
+  },
+  "input_text": "Being called “EFF” or “Malema” for speaking out on issues that are concerning in my work place, surely calls for HR, no?",
+  "processed_text": "Being called “EFF” or “Malema” for speaking out on the issue, the issue is not about the health of the people who are affected by the Zika virus",
+  "timestamp": {
+    "$date": "2024-09-18T19:38:03.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb2fd8839bcd57e22310cd"
+  },
+  "input_text": "What are the common reasons employees leave their jobs? How do they describe their experiences on social media?\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:54:00.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb3077839bcd57e22310ce"
+  },
+  "input_text": "What are the common reasons employees leave their jobs? Are there specific factors mentioned on social media, like fear of being fired or dissatisfaction with company policies?\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:56:39.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb3081839bcd57e22310cf"
+  },
+  "input_text": "What are the common reasons employees leave their jobs? Are there specific factors mentioned on social media, like fear of being fired or dissatisfaction with company policies?\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:56:49.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb309b839bcd57e22310d0"
+  },
+  "input_text": "What are the common reasons employees leave their jobs? Are there specific factors mentioned on social media, like fear of being fired or dissatisfaction with company policies?\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:57:15.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb30a0839bcd57e22310d1"
+  },
+  "input_text": "What are the common reasons employees leave their jobs? Are there specific factors mentioned on social media, like fear of being fired or dissatisfaction with company policies?\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:57:20.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66eb3116839bcd57e22310d4"
+  },
+  "input_text": "What are the common reasons employees leave their jobs according to their posts on Twitter? Provide examples of typical feedback.\n",
+  "processed_text": "What are the common reasons employees leave their ills?\n\nEmployees are often asked to leave their jobs because they are afraid of being fired",
+  "timestamp": {
+    "$date": "2024-09-18T19:59:18.040Z"
+  }
+}]

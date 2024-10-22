@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Topic and Skill Prediction</title>
+</head>
+<body>
+    <h1>LLM Topic and Skill Prediction</h1>
+    <form id="prediction-form">
+        <label for="input-text">Input Text:</label>
+        <textarea id="input-text" name="text" required></textarea>
+
+        <label for="prediction-type">Choose an option:</label>
+        <select id="prediction-type" name="type" required>
+            <option value="1">Generate Topics</option>
+            <option value="2">Predict Skills</option>
+        </select>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('prediction-form').onsubmit = async function(event) {
+            event.preventDefault();
+            const inputText = document.getElementById('input-text').value;
+            const predictionType = document.getElementById('prediction-type').value;
+
+            const response = await fetch('/process', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ text: inputText, type: predictionType })
+            });
+
+            const result = await response.json();
+            document.getElementById('result').innerText = result.processed_text || "Error: " + result.error;
+        };
+    </script>
+</body>
+</html>
