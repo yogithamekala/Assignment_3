@@ -1,0 +1,37 @@
+Achievements
+1. LLM and Skill Prediction:
+- Successfully integrated a transformers-based LLM to enhance skill prediction accuracy. The model uses natural language processing to interpret job titles and identify relevant skills, which improves the system’s ability to generate more accurate and contextually relevant predictions.
+- Implemented a KMeans clustering model to group job roles with relevant skills, categorizing them into clusters such as Python, Data Analysis, and other technical skills, making the model’s predictions more organized and actionable.
+
+2. Twitter Data Analysis:
+- Collected real-time tweets related to HR issues using the Tweepy API and analyzed them to identify trends in workplace challenges, such as employee stress and turnover risks. This information provides valuable context, enhancing the relevance of skill predictions by aligning them with emerging HR and industry trends.
+- Extracted and analyzed key keywords from tweets (e.g., “workplace stress,” “turnover risk”) to monitor potential attrition indicators, helping refine the skill prediction model’s insights in line with real-world HR needs.
+
+3. Technical Achievements:
+- Established a seamless connection between Flask, MongoDB, and the LLM model to enable reliable data processing and storage. This integration allowed real-time data flow, ensuring that user inputs could be processed promptly and accurately.
+- Successfully displayed real-time skill predictions on a user-friendly web interface, allowing users to view outputs instantly and enhancing the overall user experience with smooth and responsive interactions.
+
+Individual Contributions - 
+John Mahith - Backend Developer / Data Scientist:
+- Developed the Flask backend to handle API requests, connect with MongoDB, and manage real-time data processing.
+- Built and optimized the KMeans clustering model for skill prediction, enhancing clustering accuracy by tuning the algorithm for relevant skill groupings.
+
+Maheshwar Rao Bandi - LLM Specialist:
+- Integrated a transformers-based LLM for interpreting and tokenizing user inputs, providing text-based features that improved prediction accuracy.
+- Ensured smooth LLM output handling by aligning LLM predictions with the KMeans model and refining text-based skills to increase consistency in predictions.
+
+Yogitha Mekala - Project Manager / Front-End Developer:
+- Designed and developed a web interface that allowed users to input job titles and view skill predictions in real-time, ensuring a seamless and engaging user experience.
+- Conducted Twitter data collection and analysis, focusing on identifying HR-related trends to enhance the system’s alignment with employee attrition and workplace challenges.
+
+Next Steps:
+Improve the KMeans Model:
+- Fine-tune the clustering algorithm to increase accuracy and relevance of skill predictions.
+- Expand the number of skill categories to cover a broader range of professional roles and technical skills.
+
+Enhance LLM Integration:
+- Train the LLM on additional datasets to improve the accuracy of skill predictions and ensure alignment with current job market trends.
+- Explore advanced LLM models to improve natural language processing and provide more nuanced predictions.
+
+Increase Accuracy:
+- Integrate user feedback systems to continuously refine predictions based on real-world inputs.
