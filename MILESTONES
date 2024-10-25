@@ -1,0 +1,24 @@
+MILESTONES
+Capstone Project Report: LLM-Powered Skill Prediction and Employee Attrition Analysis
+BY: -> YOGITHA MEKALA
+    -> JOHN MAHITH PAGI
+    -> MAHESHWAR RAO BANDI
+1. Introduction
+This project focuses on integrating large language models (LLMs) and machine learning (ML) models into a web-based application for skill prediction and employee attrition analysis. Using a Flask-based interface, the project enables real-time prediction of skills for various job roles. Additionally, insights from employee-related Twitter data provide an understanding of workplace stress and attrition risks.
+The project combines:
+•	LLMs: To process user inputs for skill prediction.
+•	Machine Learning: Clustering skills with KMeans.
+•	Twitter Data Analysis: Real-time insights on employee attrition trends.
+Task Definition
+We identified two core components of the project:
+1.	Machine Learning and LLM Integration:
+o	Used a KMeans model for clustering job-related skills.
+o	Tokenization and text processing performed using Huggingface transformers.
+o	Flask-based web interface to interact with the prediction system.
+2.	Employee Attrition Data Analysis:
+o	Integrated Tweepy API to collect tweets related to employee attrition and stress.
+o	Cleaned and pre-processed the tweets for insights into HR-related issues.
+Project Goals:
+•	Enhance the skill prediction system by improving KMeans clustering.
+•	Integrate LLMs to better handle natural language input from users.
+•	Collect and analyze Twitter data to extract insights on workplace trends.
